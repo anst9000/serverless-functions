@@ -3,7 +3,7 @@ const items = [
     id: 'recmg2a1ctaEJNZhu',
     name: 'utopia sofa',
     image: {
-      url: '../../assets/2-basic-api/utopia_sofa.jpg'
+      url: 'https://tse1.mm.bing.net/th?id=OIP.VKEdIKucqimOiD-TTE02SgHaDt&pid=Api&P=0&h=180'
     },
     price: 39.95
   },
@@ -11,7 +11,7 @@ const items = [
     id: 'recvKMNR3YFw0bEt3',
     name: 'entertainment center',
     image: {
-      url: '../../assets/2-basic-api/entertainment_center.jpg'
+      url: 'https://tse4.mm.bing.net/th?id=OIP.L4hQB_dVKchZ9vGZ1QChugHaGL&pid=Api&P=0&h=180'
     },
     price: 29.98
   },
@@ -19,7 +19,7 @@ const items = [
     id: 'recxaXFy5IW539sgM',
     name: 'albany sectional',
     image: {
-      url: '../../assets/2-basic-api/albany_sectional.jpg'
+      url: 'https://tse4.mm.bing.net/th?id=OIP.Qb8PCUn8s6PwMaK8C6uACQHaHa&pid=Api&P=0&h=180'
     },
     price: 10.99
   },
@@ -27,7 +27,7 @@ const items = [
     id: 'recyqtRglGNGtO4Q5',
     name: 'leather sofa',
     image: {
-      url: '../../assets/2-basic-api/leather_sofa.png'
+      url: 'https://tse4.mm.bing.net/th?id=OIP.PbxcRk23yYzo2XneO9WGBwHaEo&pid=Api&P=0&h=180'
     },
     price: 9.99
   }
