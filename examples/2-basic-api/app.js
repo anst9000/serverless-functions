@@ -3,8 +3,6 @@ const result = document.querySelector('.result')
 const fetchData = async () => {
   try {
     const { data } = await axios('/api/2-basic-api')
-    // console.log('--> data', data)
-    // createList(data)
     const products = data
       .map(product => {
         const {
